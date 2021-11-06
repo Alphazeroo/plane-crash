@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 78e67afa833b74144ac447f27ba6db2c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - explosionEffect: {fileID: 5738492982886574732, guid: aaac176e5dfeeb9428c16e6b1de38fd6,
+      type: 3}
+  - decalEffect: {fileID: 8743982868055792713, guid: a16efaf839a2ec1478d7c29411b4f2d7,
+      type: 3}
+  - fireBallEffect: {fileID: 9064097321949562189, guid: 48f609dd7cd5ecd47b860fe1e1b7dce7,
+      type: 3}
+  - frictionEffect: {fileID: 2090472093394603785, guid: a1279d5f4d932ed44bdb6aa972916cb7,
+      type: 3}
+  - smokeEffect: {fileID: 5871974180984925319, guid: 2e2ea6fe45d1b8c4b82d004cf4aa0369,
+      type: 3}
+  - flyEngine: {fileID: 1405894301075378992, guid: 0fdc2561f6632f04084aef5aa44e2306,
+      type: 3}
+  - wreck: {fileID: 8194478032038024754, guid: c2299a876a3c42940b0a734844c55658, type: 3}
+  - flyCam: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
