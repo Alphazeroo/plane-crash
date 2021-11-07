@@ -314,7 +314,7 @@ public class CrashDetection : MonoBehaviour
     {
         StopFly(collision, cam, flyEngine);
         CrashEffects(normal, contactPoint, collision);
-        CrashCamAktive(collision);
+        CrashCamActive(collision);
     }
     /// <summary>
     /// Gecikmeli patlama aksiyonu
@@ -332,7 +332,7 @@ public class CrashDetection : MonoBehaviour
         {
             StopFly(collision, cam, flyEngine);
             CrashEffects(normal, contactPoint, collision);
-            CrashCamAktive(collision);
+            CrashCamActive(collision);
         }        
     }
     /// <summary>
@@ -402,7 +402,7 @@ public class CrashDetection : MonoBehaviour
     /// Kaza kamera görüþünü aktifleþtirir.
     /// </summary>
     /// <param name="collision">Temas bilgileri</param>
-    private void CrashCamAktive(Collision collision)
+    private void CrashCamActive(Collision collision)
     {
         crashView = collision.transform;
         crash = true;
