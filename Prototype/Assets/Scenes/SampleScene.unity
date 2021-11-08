@@ -484,7 +484,7 @@ MonoBehaviour:
   smokeEffect: {fileID: 5871974180984925319, guid: 2e2ea6fe45d1b8c4b82d004cf4aa0369,
     type: 3}
   flyEngine: {fileID: 1340265601959237}
-  wreck: {fileID: 7271037759616056349, guid: 5e9692459e193d24ab29a218e19a6360, type: 3}
+  wreck: {fileID: 1119466755516646723, guid: 5e9692459e193d24ab29a218e19a6360, type: 3}
   flyCam: {fileID: 20238957650458991}
   timer: 1
   crashTime: 3
